@@ -19,9 +19,7 @@ body {
 }
 
 /* common styles */
-img {
-	width: 100%;
-}
+
 a {
 	text-decoration: none;
 	color: white;
@@ -156,7 +154,7 @@ a {
 	fill: white;
 }
 .contacts_list {
-	margin-top: 1rem;
+
 	line-height: 2;
 	list-style: none;
 }
