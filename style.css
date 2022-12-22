@@ -10,14 +10,15 @@
 	--text-color: #727171;
 }
 html {
-	font-size: 10px;
+	font-size: 9px;
+
 }
 body {
 	font-family: Inter, sans-serif;
 	background-color: black;
 	color: white;
-	width: 21cm;
-	height: 29.7cm; 
+	
+
 }
 
 /* common styles */
@@ -82,20 +83,10 @@ a {
 .group-2 {
 	display: flex;
 	flex-direction: column;
-	gap: 5rem;
+	gap: 4rem;
 }
-.group-3 {
-	max-width: 700px;
-	width: 100%;
-	margin: 0 auto;
-	grid-column: 1/-1;
-	display: flex;
-	flex-direction: row;
-	gap: 5rem;
-}
-.group-3 > div {
-	flex: 1;
-}
+
+
 @media only screen and (max-width: 768px) {
 	.profile {
 		margin-bottom: 0;
