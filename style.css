@@ -7,7 +7,7 @@
 }
 :root {
 	--primary-color: #ff7613;
-	--text-color: #727171;
+	--text-color: #c7c7c7;
 }
 html {
 	font-size: 9px;
@@ -179,9 +179,7 @@ a {
 
 
 /* socials */
-.social_items {
-	margin-top: 2rem;
-}
+
 .social_item {
 
 	font-size: 1.5rem;
